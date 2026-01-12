@@ -47,3 +47,10 @@ The dataset contains e-commerce order details including Order ID, Product, Quant
 - Mobile category dominates in Los Angeles and New York City.
 - Monitor category shows strong demand in Dallas and Atlanta.
 - Accessories contribute steady sales across all cities.
+
+
+### Project Highlights
+- Category-wise, City-wise and Day-wise sales analysis
+- Top 5 Products and Top Cities identification
+- Data cleaning and category mapping using VLOOKUP
+- Interactive Pivot Tables and Charts for visualization
